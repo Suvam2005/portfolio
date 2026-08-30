@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+:root{
+    --white : #ffffff;
+    --menu-after : #141617;
+    --navbar-menu : #121415;
+    --menu-active : #1A53D6;
+    --menu-border : #0D1721;
+    --navbar-backdrop : #666666;
+    --about-me-btn-bg : #050505;
+    --show-card-btn-bg : #050505;
+    --show-card-btn-text : #ff6b4a;
+    --show-card-btn-border : #ff5a36;
+    --cards-border : #181818;
+    --cards-bg : #0F0F0F;
+    --live-demo : #ff6b35;
+    --form-para: #9C9C9C;
+    --form-input-bg: #111111;
+    --hero-banner-text : linear-gradient(to bottom, #ffffff 0%, #d8d8dc 22%, #9b9ca3 48%,#4b4c52 72%, #111216 100%);
+    --form-bg: radial-gradient(circle at 35% 65%, rgba(255, 255, 255, 0.10), transparent 35% ), rgba(5, 5, 5, 0.72);
+    --form-border: rgba(255, 255, 255, 0.10);
+}
