@@ -196,9 +196,9 @@ const About = ({onAboutClick}) => {
           </p>
         </div>
           <div className="buttons">
-            <Button variant= "glass" classname= "btns btn-1">Next.js</Button>
+            <Button variant= "glass" classname= "btns btn-1">PHP</Button>
             <Button variant= "glass" classname= "btns btn-2">React.js</Button>
-            <Button variant= "glass" classname= "btns btn-3">Typescript</Button>
+            <Button variant= "glass" classname= "btns btn-3">Javascript</Button>
             <Button variant= "glass" classname= "btns btn-4">Tailwind CSS</Button>
           </div>
           <div className="buttons-2">
