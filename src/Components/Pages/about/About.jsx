@@ -80,7 +80,7 @@ const About = ({onAboutClick}) => {
         ease: "power3.out",
         scrollTrigger: {
           trigger: ".p-text",
-          start: "top 90%",
+          start: "top 85%",
           toggleActions: "play none none reverse",
         },
       }
@@ -187,7 +187,7 @@ const About = ({onAboutClick}) => {
     <Container fluid className="lg about">
       <div className="left-cont">
         <p className="open-work-para"></p>
-        <h1 className="front-end">Frontend Developer</h1>
+        <h1 className="front-end">FullStack Developer</h1>
         <div className="p-texts">
           <p className="p-text">
             Building modern websites with clean, responsive,
