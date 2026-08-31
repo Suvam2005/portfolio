@@ -1,5 +1,4 @@
 import logo from "../assets/images/logo.png"
-import abacusIndia from "../assets/images/AbacusIndia.png"
 import portfolio from "../assets/images/portfolio.png"
 import reactAdminPanel from "../assets/images/ReactAdminPanel.png"
 import html from "../assets/images/HTML5.png"
@@ -14,11 +13,12 @@ import bootstrap from "../assets/images/Bootstrap.png"
 import firebase from "../assets/images/firebase.png"
 import aboutImg from "../assets/images/About-card.png"
 import idCard from "../assets/images/Id card.png"
+import desiDelight from "../assets/images/Desidelight.png"
 export const navbarLogo = {
     logo , href : "#home"
 }
 export const projects = {
-    abacusIndia , portfolio , reactAdminPanel
+    desiDelight , portfolio , reactAdminPanel
 }
 export const techStacks = {
     html , css , js , react , php , mysql , git , github , bootstrap , firebase
