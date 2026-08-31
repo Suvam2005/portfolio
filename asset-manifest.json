@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb8d7593.css",
+    "main.js": "/static/js/main.ff874d8e.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/static/js/453.fd2f0c4a.chunk.js",
+    "static/media/About-card.png": "/static/media/About-card.dafb5cf9c90db094f2f7.png",
+    "static/media/Id card.png": "/static/media/Id card.072dd47737f9f014dada.png",
+    "static/media/BG.png": "/static/media/BG.c568984067e4e5ddf30c.png",
+    "static/media/portfolio.png": "/static/media/portfolio.bca537ddc4e2c8056c17.png",
+    "static/media/ReactAdminPanel.png": "/static/media/ReactAdminPanel.4d4fa16be3e27f34667d.png",
+    "static/media/Proffesional Suvam ATS resume.pdf": "/static/media/Proffesional Suvam ATS resume.e289bcde816625f8d2e6.pdf",
+    "static/media/AbacusIndia.png": "/static/media/AbacusIndia.7674df74c00fc8259e65.png",
+    "static/media/HTML5.png": "/static/media/HTML5.2cd5d05c9660ec55992e.png",
+    "static/media/firebase.png": "/static/media/firebase.3eb51ee804a4d9dde597.png",
+    "static/media/PHP.png": "/static/media/PHP.47ef190b3fc4f67ce062.png",
+    "static/media/logo.png": "/static/media/logo.5f0cc8407eae01d29c0d.png",
+    "static/media/React.png": "/static/media/React.98ff38735baa4c1b0381.png",
+    "static/media/github.png": "/static/media/github.c4dd826c2f5f6875f423.png",
+    "index.html": "/index.html",
+    "main.eb8d7593.css.map": "/static/css/main.eb8d7593.css.map",
+    "main.ff874d8e.js.map": "/static/js/main.ff874d8e.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb8d7593.css",
+    "static/js/main.ff874d8e.js"
+  ]
+}
