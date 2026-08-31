@@ -33,6 +33,7 @@ const AboutCard = ({onClose}) => {
         </Button>
         <div className="about-card">
           <div className="heading">
+            {/* eslint-disable-next-line jsx-a11y/heading-has-content */}
             <h1></h1>
             <span className='cursor'>|</span>
           </div>
