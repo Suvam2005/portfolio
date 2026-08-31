@@ -1,6 +1,6 @@
 import Container from 'react-bootstrap/esm/Container'
 import Button from '../../../../ui/Button'
-import resume from "../../../../utils/resume/Proffesional Suvam ATS resume.pdf"
+import resume from "../../../../utils/resume/Suvam Bhadra Proffesional Resume.pdf"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faArrowLeftLong } from '@fortawesome/free-solid-svg-icons'
 import { faDownload } from "@fortawesome/free-solid-svg-icons"
