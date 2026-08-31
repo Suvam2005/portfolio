@@ -1,7 +1,7 @@
 import Navbar from "../../common/Navbar/Navbar"
 import About from "../Pages/about/About"
 import Home from "../Pages/home/Home"
-import { useEffect , useRef, useState } from "react"
+import { useRef, useState } from "react"
 import './layout.css'
 import Showcase from "../Pages/showcase/Showcase"
 import Contact from "../Pages/contact/Contact"
